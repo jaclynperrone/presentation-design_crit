@@ -8,7 +8,7 @@
 
 # What is Design Crit?
 - Special time set aside every week for designers to present and collect feedback about the projects they are working on.
-- cross-pollination
+- cross-pollination (exposure)
 - create a dialog
 - get help (5 pairs of eyes)
 - the act of talking about a project can shed a lot of light on the project
@@ -70,14 +70,6 @@ We've had some special guests!
 # Who
 - You!
 
----
-
-# Why (Goals)
-- Because feedback keeps the project,design and designer healthy
-- It's great to get different pairs of eyes on a design
-- To be challenged and to challenge
-- Even the act of describing a project can give one great clarity
-- Exposure to other projects
 
 ---
 
