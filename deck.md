@@ -24,20 +24,69 @@
 
 ![Gob](images/gob.gif)
 
+---
+
+Quux
+
+![](images/Invision_PivotalLabs_081314_0378_a.JPG)
+
+---
+
+
+Bar
+
+![](images/Invision_PivotalLabs_081314_0366_a.JPG)
+
+---
+
+Baz
+
+![](images/Invision_PivotalLabs_081314_0374_a.JPG)
+
+---
+
+Pho
+
+![](images/Invision_PivotalLabs_081314_0388_a.JPG)
+
+
+---
+
+Quo
+
+![](images/Invision_PivotalLabs_081314_0423_a.JPG)
+
+---
+
+![](images/Invision_PivotalLabs_081314_0439_a.JPG)
+
+---
+
+![](images/Invision_PivotalLabs_081314_0450_a.JPG)
+
+---
+
+![](images/Invision_PivotalLabs_081314_0454_a.JPG)
+
+---
+
 - All they need to do is bring print outs and a a digital copy of their design (if they have it!) to project.
 
 ---
 
 # The Flow
+
 - 1 - 2 designers present
 - 30 minutes per designer, lead by a moderator
 - Designer 1 pins up their mocks and gives a brief overview of the project
 
+---
 
 - Designer 1 says what kind of feedback they are looking for
 - All other designers have a sheet of dots, a sharpie and a note card
 - They place dots on areas of the mock they would like to talk about
 
+---
 
 - Each of their dot has their initials, plus a number for reference (ie. JP1, JP2, etc)
 - They then jot down a corresponding note on the notecard for the discussion (ie. JP1 - Unsure what this button does)
