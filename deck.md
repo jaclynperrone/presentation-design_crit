@@ -10,7 +10,7 @@ Jaclyn Perrone, Winter 2014
 
 ---
 
-![](images/Invision_PivotalLabs_081314_0374_a.JPG)
+![](images/Invision_PivotalLabs_081314_0374_a.jpg)
 
 ---
 
@@ -45,15 +45,15 @@ Jaclyn Perrone, Winter 2014
 
 ---
 
-![](images/Invision_PivotalLabs_081314_0366_a.JPG)
+![](images/Invision_PivotalLabs_081314_0366_a.jpg)
 
 ---
 
-![](images/Invision_PivotalLabs_081314_0388_a.JPG)
+![](images/Invision_PivotalLabs_081314_0388_a.jpg)
 
 ---
 
-![](images/Invision_PivotalLabs_081314_0423_a.JPG)
+![](images/Invision_PivotalLabs_081314_0423_a.jpg)
 
 ---
 
@@ -72,19 +72,19 @@ Jaclyn Perrone, Winter 2014
 
 ---
 
-![](images/Invision_PivotalLabs_081314_0439_a.JPG)
+![](images/Invision_PivotalLabs_081314_0439_a.jpg)
 
 ---
 
-![](images/Invision_PivotalLabs_081314_0450_a.JPG)
+![](images/Invision_PivotalLabs_081314_0450_a.jpg)
 
 ---
 
-![](images/Invision_PivotalLabs_081314_0454_a.JPG)
+![](images/Invision_PivotalLabs_081314_0454_a.jpg)
 
 ---
 
-![](images/Invision_PivotalLabs_081314_0378_a.JPG)
+![](images/Invision_PivotalLabs_081314_0378_a.jpg)
 
 ---
 
