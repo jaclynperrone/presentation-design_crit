@@ -4,9 +4,9 @@
 
 The Pivotal Labs Design Toolbox:
 
-# Design Crit
+# Design Critique
 
-Jaclyn Perrone, Winter 2014
+Jaclyn Perrone, Fall 2014
 
 ---
 
@@ -14,17 +14,28 @@ Jaclyn Perrone, Winter 2014
 
 ---
 
-# What is Design Crit?
-- time set aside weekly for designers to present and collect feedback
-- designers pair less than devs, so its important to have collab time
-- collaborative setting where it's clear everyone has a design voice
+# What is Design Critique?
+- time set aside weekly for designers to present their work and collect feedback
+
+- designers pair less than often than devs, so it's important to have collab time
+
+- coming from design school backgrounds, a lot of us missed the constant feedback loop we had among students and teachers
+
+- crit is a way to bring back that supportive, safe and collaborative environment
+
 
 ---
 
 # How does it work?
-- weekly email: "Who wants to present?"
-- Two 30m slots
-- I also include a gif of Gob Bluth.
+- we meet every Wednesday after lunch
+
+- 1 hour, two 30 min slots
+
+- on Mon/Tues weekly email with 2 things:
+
+- "Anyone have anything they'd like to present?"
+
+- I also include a gif of Gob Bluth
 
 ---
 
@@ -34,41 +45,48 @@ Jaclyn Perrone, Winter 2014
 
 ## Set-up
 
-- proctor leads the session
-- State the project, problem, type of feedback sought
-- review flows on-screen
-- pin up print-outs of mocks
+- 2 designers to present, 1 facilitator
 
----
+- first designer states the project, problem, type of feedback sought
 
-**(photo time!)**
 
 ---
 
 ![](images/Invision_PivotalLabs_081314_0366_a.jpg)
 
+- team reviews design mocks pinned to wall
+
+- and projected on the monitor
+
+- sometimes prototypes
+
 ---
 
 ![](images/Invision_PivotalLabs_081314_0388_a.jpg)
 
+- place dots on areas of the mock we would like to talk about; heatmap!
+
+- capture additional notes on index card
+
+---
+
+![](images/Invision_PivotalLabs_081314_0378_a.jpg)
+
 ---
 
 ![](images/Invision_PivotalLabs_081314_0423_a.jpg)
+
+- Facilitator leads team discussion
+
+- Using the dots to go through the mockups linearly
 
 ---
 
 ## During Critique
 
 - focus on problems, not solutions
-- place dots on areas of the mock they would like to talk about; heatmap!
-- capture additional notes on notecard
-- proctor leads discussion
 
-<!-- - Each of their dot has their initials, plus a number for reference (ie. JP1, JP2, etc)
-- They then jot down a corresponding note on the notecard for the discussion (ie. JP1 - Unsure what this button does)
-- After 10 minutes, the moderator uses the dots to lead the discussion for another 10-15 minutes (ie. Josh, you have a #5 dot over on the sign up modal...Anything you'd like to say about that)
-- At the end of the session the presenter walks away with their dotted mockups and notecards to go along with them
-- Then Designer 2 presents...wash rinse repeat -->
+- let the designer solve the problems; they have way more context (and it's the fun part)
 
 ---
 
@@ -84,26 +102,25 @@ Jaclyn Perrone, Winter 2014
 
 ---
 
-![](images/Invision_PivotalLabs_081314_0378_a.jpg)
-
----
-
 ## After Critique
 
-- photograph everything in-place
-- Designer keeps dotted mocks & corresponding notecards
-- incorporates into normal project workflow
+- designer keeps dotted mocks & corresponding notecards
+
+- share with team and client
+
+- incorporates feedback into their workflow
 
 ---
 
 ![](images/result.jpg)
 
-- decide bw different approaches to a problem
+- decide between different approaches to a problem
+
 - rethink layout / information architecture
-- the Calvary arrives! validation of professional design opinion to lay-opinion of client ("Oh, it's not just you")
-- help choose testing topics for Think-Aloud Thursday
-- content testing / validation
-- change mocks
+
+- help choose topics for user testing / validation
+
+- weight of the team's opinion validates designer's direction to client (team really excited about option A)
 
 ---
 
@@ -114,9 +131,11 @@ Jaclyn Perrone, Winter 2014
 Goals
 
 ## For the Project
-- reduce friction to getting feedback (keeps the project healthy)
-- fresh eyes
-- Even the act of describing a project can give one great clarity
+- open doors to getting feedback more easily
+
+- fresh eyes are important (keeps the project healthy)
+
+- even the act of describing a project can give one great clarity
 
 ---
 
@@ -124,7 +143,10 @@ Goals
 
 ## For the Designer
 - get help (5 pairs of eyes)
-- practice receiving feedback is good for minimizing ego
+
+- practice receiving feedback (good for minimizing ego)
+
+- learn to not take it personally
 
 ---
 
@@ -132,7 +154,10 @@ Goals
 
 ## For Pivotal Labs Design Team
 - Exposure to other projects
-- practice giving feedback
+
+- practice giving constructive feedback, not solution-based
+
+- opens door to follow-up pairing
 
 ---
 
@@ -140,9 +165,12 @@ Goals
 
 ## For the Client
 
-- reassurance that many experts would come to similar conclusions
-- design hive-mind; access to talents outside allocated designer
+- reassurance that many design experts would come to similar conclusions
+
+- access to talents outside allocated designer
+
 - talking points for stakeholder
+
 - validation for stakeholders
 
 ---
@@ -150,12 +178,20 @@ Goals
 # Who
 
 - designers at Labs!
+
 - PMs, anchors, other team members
+
 - Sometimes (prospective) clients as well!
+
 - Vanessa and James and the IDT Team
+
 - Andreea + a designer from Quandora
+
 - Lissa, a designer from XO
+
 - You!
+
+- (dev only engagement that needs design direction/feedback)
 
 ---
 
@@ -167,16 +203,11 @@ Goals
 
 **every Wednesday**
 
-
-Do you have a project that needs some critiquing?
-
-
 ---
 
 ## Thanks! :-)
 
-Want to come to crit?
-
+Do you have a project that needs some critiquing?
 **Email me! `jperrone@pivotal.io`**
 
 ---
